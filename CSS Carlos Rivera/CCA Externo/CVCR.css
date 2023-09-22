@@ -1,0 +1,91 @@
+body {
+    background-color: rgba(156, 197, 117, 0.452);
+}
+
+fieldset {
+    border: 1px solid #040404;
+    border-radius: 40px;
+    padding: 10px; /* Aumentar el espacio de relleno */
+    background-color: aliceblue;
+}
+
+legend {
+    background-color: #ebe3e3;
+    padding: 5px 10px; /* Aumentar el espacio de relleno horizontal */
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    text-align: left;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    max-width: 200px;
+    border: 3px solid #040404;
+    display: block;
+    margin: 0 auto;
+}
+
+.Datos {
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Datos h2 {
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Trabajos, .Habilidades {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Trabajos {
+    text-align: center;
+}
+
+.Educación {
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Otra {
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer {
+    text-align: center;
+    background-color: #ebe3e3;
+    padding: 10px;
+}
+
+footer a {
+    color: #040404;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+td.trabajo {
+    text-align: center;
+}
+
+ul {
+    list-style: disc;
+    margin-left: 20px;
+}
+
+hr {
+    margin: 20px 0;
+}
